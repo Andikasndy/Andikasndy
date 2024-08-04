@@ -1,23 +1,30 @@
-🌟 Fullstack JavaScript Developer | Web3 Enthusiast 🌟
+# Hi there 👋, I'm Andika
 
-About Me:
+## 🌟 Fullstack JavaScript Developer | Web3 Enthusiast 🌟
+
+### About Me
 Hello! I'm Andika, a passionate Fullstack JavaScript Developer with over 2 years of experience. I'm currently exploring Web3 and blockchain technologies.
 
-Skills:
+### Skills
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB, SQL
+- **Tools:** Git, Docker, AWS
+- **Web3:** Solidity, Ethereum, Hardhat
 
-Frontend: HTML, CSS, JavaScript, React
-Backend: Node.js, Express, MongoDB, SQL
-Tools: Git, Docker, google cloud
-Web3: Solidity, Ethereum, Hardhat
-Projects:
+### Projects
+- **E-commerce Platform**: React, Node.js, MongoDB
+- **Social Media App**: Vue.js, Firebase, Node.js
+- **Web3 DApp**: Solidity, Hardhat, React
 
-E-commerce Platform: React, Node.js, MongoDB
-Web3 DApp: Solidity, Hardhat, React
-Experience:
+### Experience
+- Fullstack Developer at [Company Name]
+- Freelance Developer
 
-Fullstack Developer at [Company Name]
-Freelance Developer
-Connect with Me:
+### Education
+- B.Sc. in Computer Science, [University Name]
 
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]
+### Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+
+![Andika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
