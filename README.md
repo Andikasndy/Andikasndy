@@ -1,4 +1,5 @@
 🌟 Fullstack JavaScript Developer | Web3 Enthusiast 🌟
+
 About Me:
 Hello! I'm Andika, a passionate Fullstack JavaScript Developer with over 2 years of experience. I'm currently exploring Web3 and blockchain technologies.
 
