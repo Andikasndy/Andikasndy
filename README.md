@@ -21,5 +21,5 @@ Hello! I'm Andika, a passionate Fullstack JavaScript Developer with over 2 years
 
 ### Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/andika-sandi-yudistira)
-- Instagram: [Your Instagram Handle](https://www.instagram.com/ndk.a_sndy)
+- Instagram: https://www.instagram.com/ndk.a_sndy/
 
