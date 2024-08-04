@@ -8,23 +8,18 @@ Hello! I'm Andika, a passionate Fullstack JavaScript Developer with over 2 years
 ### Skills
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express, MongoDB, SQL
-- **Tools:** Git, Docker, AWS
+- **Tools:** Git, Docker, Google cloud
 - **Web3:** Solidity, Ethereum, Hardhat
 
 ### Projects
 - **E-commerce Platform**: React, Node.js, MongoDB
-- **Social Media App**: Vue.js, Firebase, Node.js
 - **Web3 DApp**: Solidity, Hardhat, React
 
 ### Experience
-- Fullstack Developer at [Company Name]
+- Fullstack Developer at Sand Tech
 - Freelance Developer
 
-### Education
-- B.Sc. in Computer Science, [University Name]
-
 ### Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/andika-sandi-yudistira)
+- Instagram: [Your Instagram Handle]((https://www.instagram.com/ndk.a_sndy/))
 
-![Andika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
